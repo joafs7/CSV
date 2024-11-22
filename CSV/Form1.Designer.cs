@@ -215,7 +215,7 @@
             cmBox_Errores.FormattingEnabled = true;
             cmBox_Errores.Location = new Point(470, 797);
             cmBox_Errores.Name = "cmBox_Errores";
-            cmBox_Errores.Size = new Size(249, 35);
+            cmBox_Errores.Size = new Size(511, 35);
             cmBox_Errores.TabIndex = 17;
             // 
             // Form1

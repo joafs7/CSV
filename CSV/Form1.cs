@@ -28,10 +28,7 @@ namespace CSV
                 string filePath = openFileDialog.FileName;
                 try
                 {
-                    /*
-                     *  
-                     * 
-                     */
+                   
                     (DataTable dataTable, List<string> errores, List<int> notasCargadas) = LeerYValidarCSV(filePath);
                     notas = notasCargadas; // Guardar las notas válidas en la lista global
 
